@@ -21,6 +21,10 @@ This is a **learning project** that showcases multimodal capabilities (audio, vi
 
 ---
 
+## Hosted at [MediVoiceBot](https://huggingface.co/spaces/shivakumars57/MediVoiceBot)
+
+---
+
 ## 🛠️ Tech Stack
 
 * Python 3.12
@@ -30,6 +34,7 @@ This is a **learning project** that showcases multimodal capabilities (audio, vi
 * gTTS (Google TTS fallback)
 * FFmpeg (for audio playback)
 * pydub, speech\_recognition
+* Huggingface spaces (To deploy)
 
 ---
 
