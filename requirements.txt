@@ -1,0 +1,14 @@
+
+elevenlabs==2.5.0
+ffmpy==0.6.0
+gradio==5.35.0
+gradio_client==1.10.4
+groq==0.29.0
+gTTS==2.5.4
+huggingface-hub==0.33.1
+PyAudio==0.2.14
+pydantic==2.11.7
+pydantic_core==2.33.2
+pydub==0.25.1
+python-dotenv==1.1.1
+SpeechRecognition==3.14.3
